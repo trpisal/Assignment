@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.AssemblyInfo.cs
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\bin\Debug\netcoreapp3.1\Employee wage uc2.exe
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\bin\Debug\netcoreapp3.1\Employee wage uc2.deps.json
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\bin\Debug\netcoreapp3.1\Employee wage uc2.runtimeconfig.json
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\bin\Debug\netcoreapp3.1\Employee wage uc2.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\bin\Debug\netcoreapp3.1\Employee wage uc2.dll
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\bin\Debug\netcoreapp3.1\Employee wage uc2.pdb
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.dll
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.pdb
+C:\Users\admin\source\repos\Employee wage uc2\Employee wage uc2\obj\Debug\netcoreapp3.1\Employee wage uc2.genruntimeconfig.cache
